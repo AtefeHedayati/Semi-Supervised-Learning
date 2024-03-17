@@ -1,5 +1,5 @@
 # Semi-Supervised-learning
-Semi-Supervised Learning with Gradient-Descant variants: Standard Gradient Descent (GD),  Block Coordinate Gradient Descent with randomized rule(BCGD-R ), Block Coordinate Gradient Descent with Gauss Southwell rule(BCGD-GS)
+Semi-Supervised Learning with Gradient-Descant variants: Standard Gradient Descent (GD),  Block Coordinate Gradient Descent with randomized rule (BCGD-R), Block Coordinate Gradient Descent with Gauss Southwell rule (BCGD-GS)
 
 ## Structures
 - Semi-Supervised-learning
